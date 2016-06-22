@@ -1,2 +1,1 @@
-# WebGame
-First Publish
+This is a game made with HTML5
