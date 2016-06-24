@@ -191,7 +191,7 @@ function start() {
 	function explosao2(inimigo2X, inimigo2Y) {
 		// somExplosao.play();
 		$("#fundoGame").append("<div id='explosao2'></div>");
-		$("#explosao1").css("background-image", "url(imgs/explosao.png)");
+		$("#explosao2").css("background-image", "url(imgs/explosao.png)");
 		var div2 = $("#explosao2");
 		div2.css("top", inimigo2Y);
 		div2.css("left", inimigo2X);
