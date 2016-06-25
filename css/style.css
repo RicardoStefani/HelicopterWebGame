@@ -33,7 +33,7 @@ body {
 	margin-right: auto;
 }
 
-#fundoGame {
+#baseGame {
 	width: 950px;
 	height: 630px;
 	background-image: url(../imgs/fundo_game.jpg);
@@ -41,7 +41,7 @@ body {
 	border-style: solid;
 }
 
-#jogador {
+#player {
 	width: 256px;
 	height: 66px;
 	position: absolute;
@@ -50,7 +50,7 @@ body {
 	background-image: url(../imgs/apache.png);
 }
 
-#inimigo1 {
+#enemy1 {
 	width: 256px;
 	height: 66px;
 	position: absolute;
@@ -59,7 +59,7 @@ body {
 	background-image: url(../imgs/inimigo1.png);
 }
 
-#inimigo2 {
+#enemy2 {
 	width: 165px;
 	height: 70px;
 	position: absolute;
@@ -68,7 +68,7 @@ body {
 	background-image: url(../imgs/inimigo2.png);
 }
 
-#amigo {
+#friend {
 	width: 44px;
 	height: 51px;
 	position: absolute;
@@ -77,7 +77,7 @@ body {
 	background-image: url(../imgs/amigo.png);
 }
 
-#inicio {
+#start {
 	width: 350px;
 	height: 200px;
 	background-color: #FFF;
@@ -88,32 +88,32 @@ body {
 	padding: 10px;
 }
 
-#disparo {
+#fire {
 	width: 50px;
 	height: 8px;
 	position: absolute;
 	background-image: url(../imgs/disparo.png);
 }
 
-#explosao1 {
+#explosion1 {
 	width: 15px;
 	height: 87px;
 	position: absolute;
 }
 
-#explosao2 {
+#explosion2 {
 	width: 15px;
 	height: 87px;
 	position: absolute;
 }
 
-#explosao3 {
+#explosion3 {
 	width: 44px;
 	height: 51px;
 	position: absolute;
 }
 
-#placar {
+#scoreBoard {
 	width: 450px;
 	height: 50px;
 	position: absolute;
@@ -121,7 +121,7 @@ body {
 	top: 590px;
 }
 
-#energia {
+#energy {
 	width: 140px;
 	height: 38px;
 	position: absolute;
@@ -129,7 +129,7 @@ body {
 	top: 7px;
 }
 
-#fim {
+#end {
 	width: 350px;
 	height: 200px;
 	background-color: #FFF;
