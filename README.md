@@ -1,1 +1,1 @@
-This is a game made with HTML5
+Acesse: http://ricardo.spinpo.com/helicopter_game/
