@@ -1,1 +1,1 @@
-Acesse: http://ricardo.spinpo.com/helicopter_game/
+Acesse: http://ricardostefani.com/games/helicopter/
